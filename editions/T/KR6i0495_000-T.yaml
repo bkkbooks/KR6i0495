@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0495/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說出家緣經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0791.xml
+    old_id: T17n0791
+hash: sha256:4dabf2f2e0fac48df31f5e4a3b60e6610553ae8b05a9678fdd8674e77edf4af2
