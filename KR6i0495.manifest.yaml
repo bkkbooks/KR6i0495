@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0495_000.yaml, hash: 'sha256:4dabf2f2e0fac48df31f5e4a3b60e6610553ae8b05a9678fdd8674e77edf4af2'}
-  - {seq: 1, filename: KR6i0495_001.yaml, hash: 'sha256:ba18bd8f8345fe55a5d953ff1c884301a1877a28675efc64a9c7ee494c0b4f5b'}
+  - {seq: 1, filename: KR6i0495_001.yaml, hash: 'sha256:6155b07a29a10ef856daf9416088075d1997c0fa8cf1e0b8f5dfa3006dce2c95'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0495_001.markers.yaml, hash: 'sha256:f329d08a9ac6d53021cb9bb5dc9bda3c4c4282baa2b383482156f2a1249db6e7'}
+  - {seq: 0, role: markers, filename: assets/KR6i0495_000.markers.yaml, hash: 'sha256:5f1bbe5420b83a3393690aa47b5440957ce82f7efe0117423444567635c5572d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0495_001.markers.yaml, hash: 'sha256:723295ec9424fb4b9eb0ef003084e7e417227c7bbc7795027d3eab9ba7da4d3f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說出家緣經
   type: juan
   level: 1
-hash: sha256:46dd6171a929e886c1267bfe13993ade96a61647b1eefde74289aab37c6b3512
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:629140a4f1e8f89147b65532532caea86e304078b9d1c0bc90a23abdf4aa591d
